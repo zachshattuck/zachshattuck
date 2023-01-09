@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @zachshattuck
-- 👀 I’m interested in music and web development
-- 📫 How to reach me: Instagram @zach.shattuck
+- 👀 I’m interested in music and software
